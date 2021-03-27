@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorIcon">#F4DC84</color>
+    <color name="customtoolbar">#831010</color>
+    <color name="colorbutton">#3b0001</color>
+    <color name="snackbar_action_text_color">#EA5B5B</color>
+
+</resources>
